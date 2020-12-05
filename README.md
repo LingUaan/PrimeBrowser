@@ -1,5 +1,6 @@
 # PrimeBrowser
 As the title says, you can browse prime number tables conviniently with a graphical UI.
+All entries are double checked, so I'm quite confident that they are correct.
 
 
 Usage
