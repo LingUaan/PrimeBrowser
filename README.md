@@ -13,13 +13,13 @@ Usage
   
 Table            | Entries	| Comment
 ------------------- | ----- | --------
-  1d09	| generated with LingSieve
-  1d10	| computed from previous table
-  1d11 	| generated with LingSieve
+  1d09	| 0	| generated with program LingSieve of myself
+  1d10	| 0	| computed from previous table
+  1d11 	| 10000000	| generated with LingSieve
   1d12 	| computed from previous table
   1d13 	| computed from previous table
   1d14 	| computed from previous table
-  1d15 	| generated with primecount of Kim Walisch
+  1d15 	| generated with program primecount of Kim Walisch
   1d16 	| computed from previous table
   
   
