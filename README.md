@@ -1,7 +1,5 @@
 # PrimeBrowser
 As the title says, you can browse prime number tables conviniently with a graphical UI.
-All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available
-All other entries were double checked, so I'm quite confident that they are correct.
 
 
 
@@ -13,6 +11,10 @@ Usage
 
  Tables
   ====== 
+  
+  All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available.
+All other entries were double checked, so I'm quite confident that they are correct.
+
   
 Table            | Comment
 ------------------- | --------
