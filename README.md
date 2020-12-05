@@ -42,5 +42,5 @@ Table            | Comment
   Status
   ======
   
-  Basic development is finished, tabels hold more than 10 million records and counting ...
-  Program with DB cann't be uploaded, because even in zipped form it exceeds 170MB, wehereas GitHub allows 25MB only.
+  Basic development is finished, tabels hold more than 10 million records and counting ...<br/>
+  Program with DB cann't be uploaded, because even in zipped form it exceeds 170MB, wheereas GitHub allows 25MB only.
