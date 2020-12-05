@@ -43,4 +43,4 @@ Table            | Comment
   ======
   
   Basic development is finished, tabels hold more than 10 million records and counting ...<br/>
-  Program with DB cann't be uploaded, because even in zipped form it exceeds 170MB, wheereas GitHub allows 25MB only.
+  Program with DB cann't be uploaded, because even in zipped form it exceeds 170MB, whereas GitHub allows 25MB only.
