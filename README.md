@@ -44,3 +44,4 @@ Table            | Comment
   
   Basic development is finished, tables hold more than 10 million records and counting ...<br/>
   Program with DB cann't be uploaded, because even in zipped form it exceeds 170MB, whereas GitHub allows 25MB only.
+  After emptying tables d11 and d12 the program size is small enough to be uploade.
