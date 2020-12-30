@@ -15,27 +15,24 @@ Usage
 All other entries were double checked, so I'm quite confident that they are correct.
 
   
-Table            | pi(x) generated | li(x) generated
+Table            | pi(x) generated with | li(x) generated with
 ------------------- | -------- | --------
-  1d09	| generated with program LingSieve of myself	| boost
-  1d10	| computed from previous table
-  1d11 	| generated with program LingSieve of myself (blue/white)
-  1d12 	| computed from previous table
-  1d13 	| computed from previous table
-  1d14 	| computed from previous table
-  1d15 	| generated with program primecount of Kim Walisch (green/white)	| 
-  1d16 	| computed from previous table
-  1d17 	| computed from previous table
-  1d18 	| computed from previous table
-  1d19 	| generated with program primecount of Kim Walisch (grey/white)
-  1d20 	| computed from previous table
-  1d21 	| computed from previous table
-  1d22 	| computed from previous table
-  1d23 	| generated with program primecount of Kim Walisch (grey/white)
-  1d24 	| computed from previous table
-  1d25	| computed from previous table
-  1d26	| computed from previous table
- 
+  1d09	| program LingSieve of myself	| boost
+  1d10	| previous table	| boost
+  1d11 	| program LingSieve of myself (blue/white)	| boost
+  1d12 	| previous table	| boost
+  1d13 	| previous table	| boost
+  1d14 	| previous table	| boost
+  1d15 	| program primecount of Kim Walisch (green/white)	| primecount
+  1d16 	| previous table	| primecount
+  1d17 	| previous table	| primecount
+  1d18 	| previous table	| primecount
+  1d19 	| program primecount of Kim Walisch (grey/white)	| primecount
+  1d20 	| previous table	| primecount
+  1d21 	| previous table	| primecount
+  1d22 	| previous table	| primecount
+  1d23 	| previous table	| primecount
+  
   
   
   
