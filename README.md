@@ -15,9 +15,9 @@ Usage
 All other entries were double checked, so I'm quite confident that they are correct.
 
   
-Table            | Comment
-------------------- | --------
-  1d09	| generated with program LingSieve of myself
+Table            | pi(x) generated | li(x) generated
+------------------- | -------- | --------
+  1d09	| generated with program LingSieve of myself	| boost
   1d10	| computed from previous table
   1d11 	| generated with program LingSieve of myself (blue/white)
   1d12 	| computed from previous table
