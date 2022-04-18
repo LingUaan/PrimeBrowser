@@ -12,7 +12,7 @@ Tables
 ====== 
   
 All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available.<br/>
-All other entries were double checked, except table 1d23. So I'm quite confident that they are correct.
+All other entries were double checked, except table 1d23. So I'm quite confident that the results up to table 1d22 are correct.
 
   
 Table            | pi(x) generated with | li(x) generated with
