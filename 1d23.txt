@@ -1,8 +1,9 @@
 # (c) 2022, Ling Uaan
 #
-# pi(x) is the number of primes not larger than x. Computed with primecount
-# li(x) is the principal value of the integral of 1/log between 0 and x. Computed with: primecount
+# pi(x) is the number of primes not larger than x. 
+# li(x) is the principal value of the integral of 1/log between 0 and x.
 # NdM is the exponential notation for the number N*10^M
+# All values computed with primecount
 #
 # Last update made on Wednesday, April 07, 2022  at  04:10 PM
 #
