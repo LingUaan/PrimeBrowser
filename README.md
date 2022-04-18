@@ -5,14 +5,14 @@ As the title says, you can browse prime number tables conviniently with a graphi
 Usage
 =====
 
-  Download the program, unzip it anywhere and run it by clicking the program item.
+Download the program, unzip it anywhere and run it by clicking the program item.
 
 
- Tables
-  ====== 
+Tables
+====== 
   
-  All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available.<br/>
-All other entries were double checked, so I'm quite confident that they are correct.
+All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available.<br/>
+All other entries were double checked, except table 1d23. So I'm quite confident that they are correct.
 
   
 Table            | pi(x) generated with | li(x) generated with
@@ -31,7 +31,7 @@ Table            | pi(x) generated with | li(x) generated with
   1d20 	| previous table	| primecount
   1d21 	| previous table	| primecount
   1d22 	| previous table	| primecount
-  1d23 	| previous table	| primecount
+  1d23 	| program primecount of Kim Walisch (grey/white)	| primecount
   
   
   
