@@ -13,7 +13,7 @@ Tables
   
 All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available.<br/>
 All other entries were double checked, except table 1d23. So I'm quite confident that the results up to table 1d22 are correct.<br/>
-Table 1d23 has at least two errors as the li(x)-pi(x) result indicates. double check for table 1d23 pending.
+Table 1d23 has at least two errors as the li(x)-pi(x) result indicates. Double check for table 1d23 pending.
 
   
 Table            | pi(x) generated with | li(x) generated with
