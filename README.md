@@ -40,6 +40,6 @@ Table            | pi(x) generated with | li(x) generated with
   Status
   ======
   
-  Basic development is finished, tables hold more than 10 million records and counting ...<br/>
-  Program with DB can't be uploaded, even in zipped form it exceeds 170MB, whereas GitHub allows 25MB only.<br/>
+  Basic development is finished, tables hold about 20 million records and counting ...<br/>
+  Program with DB can't be uploaded, even in zipped form it exceeds 290MB, whereas GitHub allows 25MB only.<br/>
   After emptying tables d11 and d12 the program size is small enough to be uploaded.
