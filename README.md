@@ -12,7 +12,7 @@ pi Tables
 ========= 
   
 All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available.<br/>
-All other entries were double checked. So I'm quite confident that the results are correct.<br/>
+All other entries were double checked. So I'm quite confident that the results are correct.
 
   
 Table            | pi(x) generated with | li(x) generated with
@@ -38,7 +38,7 @@ Table            | pi(x) generated with | li(x) generated with
   li Tables
   ========= 
   
-  Tables 19 .. 35 were generated with primecount (gold/white)
+  Tables 19 .. 35 were generated with primecount (gold/white)<br/>
   Tables 36 .. xx were generated with wolframalpha (pink/white)
   
   
