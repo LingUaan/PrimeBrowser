@@ -8,12 +8,11 @@ Usage
 Download the program, unzip it anywhere and run it by clicking the program item.
 
 
-Tables
-====== 
+pi Tables
+========= 
   
 All entries were compared with the extensive prime sieve tables of Tomás Oliveira e Silva and Jan Büthe, where available.<br/>
-All other entries were double checked, except table 1d23. So I'm quite confident that the results up to table 1d22 are correct.<br/>
-Table 1d23 has at least two errors as the li(x)-pi(x) result indicates. Double check for table 1d23 pending.
+All other entries were double checked. So I'm quite confident that the results are correct.<br/>
 
   
 Table            | pi(x) generated with | li(x) generated with
@@ -33,13 +32,19 @@ Table            | pi(x) generated with | li(x) generated with
   1d21 	| previous table	| primecount
   1d22 	| previous table	| primecount
   1d23 	| program primecount of Kim Walisch	(pink/white) | primecount
+  1d24 	| previous table	| primecount
   
   
+  li Tables
+  ========= 
+  
+  Tables 19 .. 35 were generated with primecount (gold/white)
+  Tables 36 .. xx were generated with wolframalpha (pink/white)
   
   
   Status
   ======
   
-  Basic development is finished, tables hold about 20 million records and counting ...<br/>
+  Basic development is finished, tables hold 33 million records and counting ...<br/>
   Program with DB can't be uploaded, even in zipped form it exceeds 290MB, whereas GitHub allows 25MB only.<br/>
-  After emptying tables d11 and d12 the program size is small enough to be uploaded.
+  After emptying tables d11 and d12 and truncating all li tables the program size is small enough to be uploaded.
