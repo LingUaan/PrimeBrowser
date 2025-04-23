@@ -33,6 +33,8 @@ Table            | pi(x) generated with | li(x) generated with
   1d22 	| previous table	| primecount
   1d23 	| program primecount of Kim Walisch	(pink/white) | primecount
   1d24 	| previous table	| primecount
+  1d25 	| program primecount of Kim Walisch	(pink/white) | primecount
+  1d26 	| previous table	| primecount
   
   
   li Tables
