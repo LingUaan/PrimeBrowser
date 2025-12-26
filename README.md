@@ -17,8 +17,6 @@ Most entries were double checked, so I'm quite confident that the results are co
   
 Table            | pi(x) generated with | li(x) generated with
 ------------------- | -------- | --------
-  1d09	| program LingSieve of myself	| boost
-  1d10	| previous table	| boost
   1d11 	| program LingSieve of myself (blue/white)	| boost
   1d12 	| previous table	| boost
   1d13 	| previous table	| boost
@@ -34,7 +32,7 @@ Table            | pi(x) generated with | li(x) generated with
   1d23 	| program primecount of Kim Walisch	(pink/white) | primecount
   1d24 	| previous table	| primecount
   1d25 	| program primecount of Kim Walisch	(pink/white) | primecount
-  1d26 	| previous table	| primecount
+  1d26 	| program primecount of Kim Walisch	(pink/white) | primecount
   
   
   li Tables
