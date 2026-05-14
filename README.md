@@ -1,9 +1,10 @@
 # PrimeBrowser
 
-
 [![Download](https://img.shields.io/badge/release-V7.44-success?style=plastic)](https://github.com/LingUaan/PrimeBrowser/releases)
 
+
 As the title says, you can browse prime number tables conviniently with a graphical UI.
+
 
 Usage
 =====
