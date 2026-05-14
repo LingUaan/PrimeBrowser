@@ -1,19 +1,21 @@
-Table11: 17.500.000 Records, 160.000 Checks
-Table12: 1.750.000 Records, 160.000 Checks
-Table13: 0.175.000 Records, 160.000 Checks
-Table14: 0.017.500 Records, 020.000 Checks
+Table11: 20.000.000 Records, 160.000 Checks
+Table12: 2.000.000 Records, 160.000 Checks
+Table13: 0.200.000 Records, 160.000 Checks
+Table14: 0.020.000 Records, 050.000 Checks
  
 Table15: 100.000 Records, 50.000 Checks
 Table16: 10.000 Records, 10.000 Checks
 Table17: 01.000 Records, 01.000 Checks
 Table18: 00.100 Records, 00.100 Checks
  
-Table19: 02.300 Records, 01.000 Checks
-Table20: 00.230 Records, 00.100 Checks
-Table21: 00.023 Records, 00.100 Checks
-Table22: 00.002 Records, 00.010 Checks
+Table19: 03.278 Records, 01.000 Checks
+Table20: 00.389 Records, 00.100 Checks
+Table21: 00.100 Records, 00.100 Checks
+Table22: 00.010 Records, 00.010 Checks
  
-Table23: 00.060 Records, 00.021 Checks
-Table24: 00.006 Records, 00.000 Checks
-Table25: 00.000 Records, 00.000 Checks
-Table26: 00.000 Records, 00.000 Checks
+Table23: 00.100 Records, 00.100 Checks
+Table24: 00.010 Records, 00.010 Checks
+Table25: 00.010 Records, 00.000 Checks
+Table26: 00.010 Records, 00.000 Checks
+ 
+pi(x) DB Total: 22.335.007 Records
